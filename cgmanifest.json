@@ -354,6 +354,16 @@
       "component": {
         "type": "other",
         "other": {
+          "name": "busybox",
+          "version": "1.31.1",
+          "downloadUrl": "http://www.busybox.net/downloads/busybox-1.31.1.tar.bz2"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
           "name": "bridge-utils",
           "version": "1.6",
           "downloadUrl": "https://kernel.org/pub/linux/utils/net/bridge-utils/bridge-utils-1.6.tar.xz"
@@ -5448,6 +5458,16 @@
           "name": "sshpass",
           "version": "1.06",
           "downloadUrl": "http://downloads.sourceforge.net/project/sshpass/sshpass/1.06/sshpass-1.06.tar.gz"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
+          "name": "uclibc",
+          "version": "0.9.33.2",
+          "downloadUrl": "http://www.uclibc.org/downloads/uClibc-0.9.33.2.tar.xz"
         }
       }
     },
