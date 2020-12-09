@@ -4,12 +4,16 @@ Summary:        C++ REST library
 Name:           cpprest
 Version:        2.10.14
 <<<<<<< HEAD
+<<<<<<< HEAD
 Release:        7%{?dist}
 Summary:        C++ REST library
 Group:          Applications/File
 =======
 Release:        5%{?dist}
 >>>>>>> Format spec with spec-lint suggestions.
+=======
+Release:        6%{?dist}
+>>>>>>> Bump release.
 License:        MIT
 Vendor:         Microsoft Corporation
 Distribution:   Mariner
